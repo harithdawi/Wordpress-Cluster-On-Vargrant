@@ -1,15 +1,19 @@
-☸️ WordPress Cluster on Vagrant
+**WordPress Cluster on Vagrant
+**
 
-A simple lab environment for WordPress cluster testing and experimentation.</strong>
+**About**
+This repository contains a Vagrant configuration for testing and experimenting with a WordPress cluster environment.
 
-📌 About
-This repository contains a Vagrant-based testing environment for experimenting with WordPress cluster deployment concepts.
+The project is created for learning, testing, and sharing purposes.
 
-The project is intended for personal testing, learning, and sharing configuration ideas with the community.
+**Objectives**
+Test and experiment with Vagrant.
+Explore WordPress cluster deployment concepts.
+Learn about virtual machine provisioning and configuration.
+Share configuration and ideas with the community.
 
-⚠️ This is a testing project, not a production-ready deployment.
-🎯 Objectives
-🧪 Experiment with Vagrant and virtual machines.
-🌐 Explore WordPress cluster architecture.
-⚙️ Test infrastructure provisioning and configuration.
-🤝 Share knowledge and configuration with the community.
+
+**Requirements**
+Vagrant
+VirtualBox or another supported virtualization provider, depending on the configuration
+Git (optional)
